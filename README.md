@@ -6,7 +6,7 @@ Este es un pequeño proyecto en HTML, CSS y JavaScript que permite realizar un s
 
 #### :point_right: Descripción
 
-Este es un pequeño proyecto en HTML, CSS y JavaScript que permite realizar un sorteo de "Amigo Secreto".<br>
+Este es un pequeño proyecto en HTML, CSS y JavaScript que permite realizar un sorteo de "Amigo Secreto".
 Los usuarios pueden agregar nombres a una lista y luego seleccionar un nombre de manera aleatoria además cuenta con un botón para reiniciar el juego sin necesidad de recargar la página (Espero ayude a la experiencia).
 
 #### :hammer: Características
